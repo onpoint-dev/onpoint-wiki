@@ -1,0 +1,25 @@
+
+.main-header__wrap {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.main-header__title {
+  color: $blue;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.main-header__img {
+  width: 20rem;
+  height: 20rem;
+  margin: 0 auto;
+}
+
+.main-header__btn {
+  margin: 2rem auto 1rem auto;
+}
+
+.splide__pagination {
+  bottom: 5rem;
+}

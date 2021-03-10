@@ -1,0 +1,27 @@
+doctype html
+html(lang="ru")
+  head
+    meta(charset="utf-8")
+    title Title your site
+    meta(content="width=device-width, initial-scale=1" name="viewport")
+    meta(content="ie=edge" http-equiv="x-ua-compatible")
+    link(rel="stylesheet" href="css/style.css")
+    //- |[print_global_analytic_values]
+  body
+    //- script(type="text/javascript")
+    //-   |(function(a,b,c,d){
+    //-   |a='//tags.tiqcdn.com/utag/integratedmaster/msdmed.ru/prod/utag.js';
+    //-   |b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    //-   |a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    //-   |})();
+    include mixins/mixins
+    block nav
+      include common/nav/nav
+    block content
+    block footer
+      include common/footer/footer
+    block jquery
+      script(src='libs/jquery-3.5.1.min.js')
+    block scripts
+
+      

@@ -5,6 +5,7 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <p>Onpoint Wiki</p>
+        <p>Testing the deployment</p>
       </header>
     </div>
   )

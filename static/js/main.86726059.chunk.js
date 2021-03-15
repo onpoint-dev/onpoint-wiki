@@ -1,0 +1,2 @@
+(this["webpackJsonponpoint-wiki"]=this["webpackJsonponpoint-wiki"]||[]).push([[0],{11:function(e,n,t){"use strict";t.r(n);var i=t(1),c=t.n(i),r=t(3),s=t.n(r),o=(t(8),t(9),t(0));var p=function(){return Object(o.jsx)("div",{className:"App",children:Object(o.jsx)("header",{className:"App-header",children:Object(o.jsx)("p",{children:"Onpoint Wiki"})})})};s.a.render(Object(o.jsx)(c.a.StrictMode,{children:Object(o.jsx)(p,{})}),document.getElementById("root"))},8:function(e,n,t){},9:function(e,n,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.86726059.chunk.js.map
